@@ -1,1 +1,1 @@
-# enterprise.github.io
+# akademik-app.github.io
